@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "52lDSFXKUeZJQ5o08WFGZVZsX6yXEk4RrvYY2AW6jfI=",
+  "Source": "TwitterCloneBackend",
+  "BasePath": "_content/TwitterCloneBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
